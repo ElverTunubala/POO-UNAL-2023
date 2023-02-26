@@ -9,7 +9,7 @@ public class Circulo {
         a=Math.PI*(r*r);
         l=Math.PI*(r+r);
 
-        System.out.println("El área del circulo de radio " + r+ " es: " + a);
-        System.out.println("La longitud de la circunferencia es: "+ l);
+        System.out.println("El área del circulo de radio " + r + " es: " + a);
+        System.out.println("La longitud de la circunferencia es: " + l);
     }
 }
